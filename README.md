@@ -33,7 +33,8 @@ Este projeto foi desenvolvido em Python com o objetivo de calcular a média de u
 ---
 
 ## ▶️ Como Executar
-![imagemmedia](
+![imagemmedia](https://github.com/kamillymartins/MEDIA.PYTHON/blob/main/imagemmedia.png)
+
 ## 💻 Exemplo de Uso
 
 ```text
@@ -72,10 +73,3 @@ Projeto desenvolvido para praticar conceitos fundamentais de Lógica de Programa
 * Estruturas condicionais
 * Manipulação de strings
 
----
-
-## 👩‍💻 Autora
-
-**Kamilly Victoria Martins da Cruz**
-
-Projeto desenvolvido para a disciplina de **Lógica de Programação e Algoritmos**.
